@@ -1,0 +1,12 @@
+{
+  "name": "statusboard-gitlog",
+  "version": "0.1.0",
+  "description": "converts a git log into html for consumption by Status Board by Panic",
+  "main": "index.js",
+  "author": "Jason Gill",
+  "license": "DBAD",
+  "dependencies": {
+    "moment": "~2.5.1",
+    "gitlog": "~0.0.1"
+  }
+}
