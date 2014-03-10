@@ -25,6 +25,4 @@ gitlog(gitlog_options, function(err, commits) {
 	html+="</table>"
 
 	fs.writeFile(outfile, html);
-
-	console.log("File Saved");
 });
