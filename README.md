@@ -1,6 +1,6 @@
 # Status Board Git Log
 
-Converts a git log into html for consumption by Status Board by Panic.
+By the power of node.js, this script converts a git log into html for consumption by Status Board by Panic.
 
 ## Usage
 
